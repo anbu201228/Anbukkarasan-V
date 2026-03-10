@@ -4,7 +4,7 @@
     { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "templates/index.html" }
   ]
-}
+},
 {
   "version": 2,
   "builds": [
@@ -28,8 +28,8 @@
     {
       "src": "assets/**",
       "use": "@vercel/static"
-    }
-  ],
+    },
+  
   "routes": [
     {
       "src": "/(.*)",
