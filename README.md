@@ -1,4 +1,4 @@
-# ALSTOM MOC Workflow System
+# MOC Workflow System
 
 Management of Change (MOC) approval workflow system with 4-stage sequential approval process.
 
@@ -45,7 +45,7 @@ Management of Change (MOC) approval workflow system with 4-stage sequential appr
 
 ## 🌟 4-Stage Sequential MOC Approval Workflow Platform
 
-![ALSTOM PCM System](https://img.shields.io/badge/ALSTOM-PCM_System-blue)
+![PCM System](https://img.shields.io/badge/ALSTOM-PCM_System-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![Flask](https://img.shields.io/badge/Flask-2.3.3-lightgrey)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-yellow)
@@ -74,7 +74,7 @@ Management of Change (MOC) approval workflow system with 4-stage sequential appr
 
 ## 🎯 Project Overview
 
-**System Name:** ALSTOM PCM Workflow System  
+**System Name:**  PCM Workflow System  
 **Document Reference:** EHS-FOR-007-MOC Rev. 2.0  
 **Purpose:** Digital Management of Change (MOC) approval workflow with 4-person sequential validation  
 **Technology Stack:** Flask Web Application with SQLite Database  
